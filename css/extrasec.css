@@ -1,0 +1,17 @@
+.extra-section
+{
+    width: 100%;
+    height: 600px;
+
+    background: rgba(255, 255, 0, 0.705);
+
+}
+
+
+
+.extrasecimg
+{
+    width: 50%;
+    height: 600px;
+   opacity:30%;
+}

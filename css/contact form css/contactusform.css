@@ -1,0 +1,22 @@
+.contact{
+overflow: hidden;
+width:100%;
+height:806px;
+  
+    background-image: url('/images/pexels-cup-of-couple-6177595.jpg');
+    background-size:cover;
+    background-position:center;
+
+}
+
+
+
+#theback
+{
+    background-color: rgba(0, 0, 0, 0.432);
+width:100%;
+height:806px;
+
+
+
+}

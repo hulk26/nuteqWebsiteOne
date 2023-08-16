@@ -1,0 +1,22 @@
+.bottom-footer{
+background:#000;
+width:100%;
+padding: 20px 0;
+text-align:center;
+overflow: hidden;
+color:#fff;
+
+}
+
+.bottom-footer p{
+    font-size:14px;
+    word-spacing:2px;
+    text-transform:capitalize;
+    opacity:60%;
+}
+
+.bottom-footer span{
+    text-transform:uppercase;
+    opacity:.4;
+    font-weight:200;
+}
